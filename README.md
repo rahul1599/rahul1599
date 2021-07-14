@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahul1599
-- 👀 I’m interested in Web development, Android App development
+- 👀 I’m interested in Web development.
 - 🌱 I’m currently learning MEAN stack along Java Programming
 
 
